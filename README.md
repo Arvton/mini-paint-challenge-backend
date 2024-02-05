@@ -2,6 +2,8 @@
 
 This is the repository for my BrainStation capstone project.  The live frontend of the project can be found [here](https://www.minipaintchallenge.com)
 
+Here is a link the the [frontend repo](https://github.com/Arvton/mini-paint-challenge-frontend/tree/main)
+
 ## What is the project?
 
 This is a landing page for the Mini Paint Challenge. The primary goal is to inform visitors about the challenge.
